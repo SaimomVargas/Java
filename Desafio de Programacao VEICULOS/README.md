@@ -1,6 +1,5 @@
 <h1 align="center">Desafio de Programação: VEÍCULOS</h1>
- <p align="center">Repositório para as atividades do Bootcamp Santander Mobile </p>
- 
+
  
  Neste desafio, você deve programar uma solução orientada a objetos utilizando
 Java. Desenvolva um código claro e eficiente. Sua tarefa como desenvolvedor,
