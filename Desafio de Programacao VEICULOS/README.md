@@ -6,6 +6,9 @@ Java. Desenvolva um código claro e eficiente. Sua tarefa como desenvolvedor,
 consiste em implementar a estrutura de classes apresentada neste diagrama: 
 Implemente as classes e relacionamentos especificados no diagrama considerando atendendo
 aos seguintes pontos:
+
+![Captura de tela 2022-07-15 164251](https://user-images.githubusercontent.com/88741429/179302359-43519295-a98b-492f-bafa-50d5ce7ddd0c.png)
+
 1) Atente as relações que acontecem com a classe veículo para que o sistema funcione
 corretamente.
 2) Todos os atributos devem ser definidos como públicos, protegidos ou privados, além de
